@@ -1,0 +1,68 @@
+/* 
+==============================================
+CONTENT:	Project Name Here
+AUTHOR:		Your Name Here
+==============================================
+
+TABLE OF CONTENTS:
+
+1. Main Layout
+2. Content
+
+==============================================
+*/
+/* 1. Main Layout ================================= */
+* {
+  box-sizing: border-box; }
+
+body {
+  background: linear-gradient(to top, #f2e2bf, #cea242); }
+
+.content {
+  background: #a3977d;
+  text-align: center;
+  padding: 30px;
+  font-family: sans-serif;
+  width: 90%;
+  max-width: 600px;
+  margin: 30px auto;
+  border-radius: 10px; }
+
+/* 2. Content ================================= */
+.logo {
+  width: 60px; }
+
+h1 {
+  font-weight: 700;
+  font-size: 22pt;
+  margin: 15px 0;
+  color: white; }
+
+
+p {
+  color: #777;
+  line-height: 140%; }
+
+.wedding{
+  float: left;
+}
+
+
+.wedding img {
+  width: 600px;
+  height: 400px; 
+ }
+.daddy{
+  right: 2500px;
+}
+
+.venue{
+   position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+
+/*# sourceMappingURL=main.css.map */
